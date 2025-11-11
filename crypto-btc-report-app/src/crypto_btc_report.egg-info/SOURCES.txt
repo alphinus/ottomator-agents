@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/crypto_btc_report/__init__.py
+src/crypto_btc_report/builder.py
+src/crypto_btc_report/config.py
+src/crypto_btc_report/generate.py
+src/crypto_btc_report/news.py
+src/crypto_btc_report/price.py
+src/crypto_btc_report/scheduler.py
+src/crypto_btc_report/summarizer.py
+src/crypto_btc_report/web.py
+src/crypto_btc_report.egg-info/PKG-INFO
+src/crypto_btc_report.egg-info/SOURCES.txt
+src/crypto_btc_report.egg-info/dependency_links.txt
+src/crypto_btc_report.egg-info/top_level.txt

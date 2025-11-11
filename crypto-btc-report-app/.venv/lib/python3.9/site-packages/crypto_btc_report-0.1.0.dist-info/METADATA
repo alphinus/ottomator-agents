@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: crypto-btc-report
+Version: 0.1.0
+Summary: Daily BTC intelligence report web app
+Requires-Python: >=3.9

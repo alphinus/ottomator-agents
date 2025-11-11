@@ -1,0 +1,90 @@
+{
+  "generated_at": "2025-11-11T12:13:49.241794Z",
+  "timezone": "Europe/Berlin",
+  "coin_symbol": "bitcoin",
+  "vs_currency": "usd",
+  "btc_price_summary": {
+    "current_price": 105311.0,
+    "high": 107465.0,
+    "low": 104649.0,
+    "average": 105707.0,
+    "change_percentage": -0.623749669724078,
+    "sample_points": 1768,
+    "from_timestamp": "2025-11-10T12:13:42Z",
+    "to_timestamp": "2025-11-11T12:13:42Z",
+    "vs_currency": "usd"
+  },
+  "headlines": [
+    {
+      "title": "Bitcoin ETF demand stalls as US shutdown optimism fails to lift sentiment",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-demand-stalls-shutdown-optimism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T10:06:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF demand stalls as US shutdown optimism fails to lift sentiment\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDkzMGEtMDllZi03YzNiLTg2MWEtMWZlZjVhNThlZjdl.jpg\" /></p><p>Bitcoin ETF inflows and Strategy’s BTC acquisitions have been the main vehicles fueling Bitcoin’s momentum this year, according to market analysts.</p>"
+    },
+    {
+      "title": "Bitcoin sees key $107K rejection: Watch these BTC price support levels next",
+      "url": "https://cointelegraph.com/news/bitcoin-key-107k-rejection-watch-these-btc-price-support-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T09:06:46+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sees key $107K rejection: Watch these BTC price support levels next\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY1MjAtZGEwNi03ODQyLWFjM2QtYWUzMjJlZWZmNzY4.jpg\" /></p><p>Bitcoin failed to find support at $107,000 as its rebound stopped short of a bull market comeback; analysis warned of new “OG selling pressure” to come.</p>"
+    },
+    {
+      "title": "NFT and memecoin markets recover after month-long crypto slump",
+      "url": "https://cointelegraph.com/news/nft-memecoin-markets-rebound-traders-return-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T08:25:26+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NFT and memecoin markets recover after month-long crypto slump\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTcxZjMtMTQ1MS03NjNjLWE1ZDMtZGM4YjM3ODdmOTYx.jpg\" /></p><p>NFTs posted selective gains led by blue chips, while memecoins rallied broadly across major names in a sentiment-driven rebound.</p>"
+    },
+    {
+      "title": "CleanSpark plans $1.15B raise to expand Bitcoin mining, AI infrastructure",
+      "url": "https://cointelegraph.com/news/cleanspark-raise-1-1b-btc-mining-ai-data-center-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T07:35:14+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark plans $1.15B raise to expand Bitcoin mining, AI infrastructure\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGVjZmUtNzU5ZC03MGY2LTgzZTEtN2M3YWVhMzY5MzY2.jpg\" /></p><p>CleanSpark is among the leading Bitcoin mining companies expanding into AI data center infrastructure, seeking diversified sources of revenue amid post-Bitcoin halving pressure.</p>"
+    },
+    {
+      "title": "Bitcoin signals bullish reversal as ‘apparent demand’ hits four-month highs",
+      "url": "https://cointelegraph.com/news/bitcoin-signals-bullish-reversal-apparent-demand-hits-four-month-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T07:18:58+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin signals bullish reversal as ‘apparent demand’ hits four-month highs\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODMyMzgtOGZmMS03ZjEzLWJkZWUtZjk4OGJlMzc3ZDY3.jpg\" /></p><p>Bitcoin’s apparent demand and spot activity are picking up; momentum will be re-ignited once BTC breaks through $110,000.</p>"
+    },
+    {
+      "title": "Brazil classifies stablecoin payments as foreign exchange under new rules",
+      "url": "https://cointelegraph.com/news/brazil-central-bank-crypto-rules-stablecoins-foreign-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T06:56:37+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil classifies stablecoin payments as foreign exchange under new rules\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg2ZWUtYWJhZC03NzQyLTk1ZTAtYTk5MmQyODA2ZDYy.jpg\" /></p><p>Banco Central do Brasil’s new framework brings crypto companies under banking-style oversight, extending AML and FX rules to stablecoins.</p>"
+    },
+    {
+      "title": "Institutional Investors Shift From Speculation to Diversification: Sygnum",
+      "url": "https://decrypt.co/348010/institutional-investors-shift-from-speculation-to-diversification-sygnum",
+      "source": "Decrypt",
+      "published_at": "2025-11-11T06:01:02+00:00",
+      "summary": "Portfolio diversification now outweighs short-term profit as the main driver of institutional crypto investment, according to a new report."
+    },
+    {
+      "title": "61% of institutions plan to boost crypto exposure despite October crash: Sygnum",
+      "url": "https://cointelegraph.com/news/61-of-institutions-plan-to-boost-crypto-exposure-despite-october-crash-sygnum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T06:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"61% of institutions plan to boost crypto exposure despite October crash: Sygnum\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNjODEtNTk1YS03YWExLWIwNmQtYmQwNTg1MWU5NmIz.jpg\" /></p><p>Despite October’s crash, the end of the US government shutdown could bring “bulk approvals” for altcoin ETFs, catalyzing the next wave of institutional inflows, according to Sygnum.</p>"
+    },
+    {
+      "title": "Willy Woo floats ‘dummies guide’ to evading the quantum Bitcoin threat",
+      "url": "https://cointelegraph.com/news/bitcoin-segwit-quantum-computing-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T05:21:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Willy Woo floats ‘dummies guide’ to evading the quantum Bitcoin threat\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODJjYmQtM2UyZC03OWY2LThiM2EtNTI5NDhkODM1NTkw.jpg\" /></p><p>Some critics argue the threat posed by quantum computers is overblown, including Strategy chairman Michael Saylor, who has once called it a marketing ploy to pump quantum-branded tokens.</p>"
+    },
+    {
+      "title": "Bitcoin chatter surges as price recovers, US govt shutdown nears end",
+      "url": "https://cointelegraph.com/news/bitcoin-chatter-surges-as-price-recovers-us-govt-shutdown-nears-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph.com News",
+      "published_at": "2025-11-11T04:13:31+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin chatter surges as price recovers, US govt shutdown nears end\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTcxMTYtMzljMy03MGYwLWE2Y2EtZDhlOWFlYWRmMDMx.jpg\" /></p><p>The Senate passed a bill on Monday to end the record US government shutdown, while Bitcoin has been trending on social media as it surged 6.7% past $106,000.</p>"
+    }
+  ],
+  "llm_report": "**Cryptocurrency Market Report: Focus on Bitcoin**  \n*Date: October 2023*  \n*Prepared by: Financial Research Analyst*\n\n---\n\n**Market Snapshot**  \n- **Current Bitcoin Price:** $105,311.00  \n- **24h Change:** -0.62%  \n- **24h High:** $107,465.00  \n- **24h Low:** $104,649.00  \n\nBitcoin has faced a minor decline over the past 24 hours, struggling to maintain momentum after reaching a key resistance level at $107,000. Market sentiment remains cautious amid broader economic uncertainties.\n\n---\n\n**Key Headlines**  \n1. **Bitcoin ETF Demand Stalls**: Optimism surrounding a potential U.S. government shutdown has failed to invigorate demand for Bitcoin ETFs, leading to stagnation in market interest [#1].\n2. **Key Price Rejection**: Bitcoin experienced a rejection at the $107,000 mark, prompting analysts to identify critical support levels to watch for potential rebounds [#2].\n3. **Market Recovery**: Following a month-long slump, NFT and memecoin markets are showing signs of recovery, indicating a renewed appetite for risk among traders [#3].\n4. **CleanSpark's Expansion Plans**: Bitcoin mining firm CleanSpark has announced plans to raise $1.15 billion to enhance its mining and AI infrastructure, signaling confidence in the long-term viability of Bitcoin [#4].\n5. **Bullish Signals**: Recent data indicates a bullish reversal for Bitcoin, with demand reaching four-month highs, suggesting potential upward price movement [#5].\n6. **Institutional Interest**: A report from Sygnum reveals that 61% of institutional investors plan to increase their crypto exposure despite recent market volatility [#6].\n\n---\n\n**Opportunities & Risks**  \n**Opportunities**:  \n- **Institutional Investment**: The growing interest from institutional investors presents a strong opportunity for Bitcoin's price appreciation as they shift from speculation to diversification strategies [#7].\n- **Market Recovery**: The rebound in NFT and memecoin markets may signal a broader recovery in the crypto sector, potentially benefiting Bitcoin as investor confidence returns.\n\n**Risks**:  \n- **Regulatory Uncertainty**: The classification of stablecoin payments as foreign exchange in Brazil could lead to regulatory challenges that may impact the broader crypto market [#8].\n- **Market Sentiment**: Continued volatility and negative sentiment surrounding Bitcoin ETFs and economic conditions could hinder price recovery and investor confidence.\n\n---\n\n**Watchlist**  \n- **Support Levels**: Monitor key support levels below $105,000 to assess potential price movements.\n- **Regulatory Developments**: Keep an eye on developments in the U.S. regarding Bitcoin ETFs and stablecoin regulations.\n- **Institutional Moves**: Track institutional investments and their impact on Bitcoin's price trajectory, especially in light of the recent bullish signals.\n\n---\n\n*This report is for informational purposes only and does not constitute financial advice.*"
+}
