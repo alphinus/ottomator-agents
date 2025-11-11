@@ -4,4 +4,4 @@ venv_linux
 __pycache__
 chroma_db
 .gradio
-.langgraph_api
+.langgraph_api.DS_Store
